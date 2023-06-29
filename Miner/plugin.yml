@@ -1,0 +1,11 @@
+name: Miner
+author: WatsonLLC
+description: Idle Miner Gamemode
+version: 0.0.1
+api-version: '1.20'
+main: com.watsonllc.miner.Miner
+commands:
+  help:
+  store:
+  points:
+  highest:
